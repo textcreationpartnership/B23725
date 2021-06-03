@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mrs. Mary Green, living at a haberdasher of hats, next door to the Three-Crane-Tavern in Chancery-Lane; hath by the blessing of God, and many years practice, learned a most excellent method of curing these distempers here under-mentioned. These are to Certifie all Persons whom it may Concern, that Mrs. Mary Green in Chancery-Lane, is Licensed by His Grace, the Lord Archbishop of Canterbury, for the Great Cures she hath performed on several Persons.</title>
+            <author>Green, Mary, Mrs.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23725</idno><idno type="EEBO-CITATION">99888614</idno>
+  <idno type="VID">195839</idno>
+  <idno type="EEBO-PROQUEST">2248547277</idno>
+  
+            <idno type="STC">Wing G1811</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[34]</idno>
+            <idno type="STC">ESTC R231282</idno>
+            <idno type="PROQUEST">ocm99888614</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888614e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23725)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195839)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mrs. Mary Green, living at a haberdasher of hats, next door to the Three-Crane-Tavern in Chancery-Lane; hath by the blessing of God, and many years practice, learned a most excellent method of curing these distempers here under-mentioned. These are to Certifie all Persons whom it may Concern, that Mrs. Mary Green in Chancery-Lane, is Licensed by His Grace, the Lord Archbishop of Canterbury, for the Great Cures she hath performed on several Persons.</title>
+                  <author>Green, Mary, Mrs.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Green, Mary, --  Mrs. --  Early works to 1800.</term>
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert">
+            <pb facs="tcp:195839:1"/>
+            <head>M. In the Year 1693. G.</head>
+            <head>Mrs. <hi>Mary Green,</hi> Living at a <hi>Haberdasher of Hats,</hi> next Door to the <hi>Three-Crane-Tavern</hi> in <hi>Chancery-Lane;</hi> hath by the Blessing of God, and many Years Practice, Learned a most Excellent Method of Curing these Distempers here under-mentioned.</head>
+            <div type="notice">
+               <p>These are to Certifie all Persons whom it may Concern, that Mrs. <hi>Mary Green</hi> in <hi>Chancery-Lane</hi> is Licensed by His Grace, the <hi>Lord Archbishop of Canterbury,</hi> for the Great Cures she hath performed on several Persons.</p>
+            </div>
+            <div type="part">
+               <p>ALL Deadness, Numbness, Weakness of Limbs, Rheumatisms, and Sciatica's, all Bruises and Aches proceeding from Cold, tho' of many Years standing. She hath also an excellent way of Curing the stoppage of the Stomach, Cough, shortness of Breath, both in Men and Women; and also, several other Distempers, too tedious here to relate; the Truth of which, you may be satisfied, (by Repairing to her House in <hi>Chancery-Lane,</hi> as aforesai<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) by Testimonials under the Hands of se<g ref="char:EOLhyphen"/>veral Persons under-writ, with many oth<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>at she (through the Blessing of God) hath perfectly Cured, when many of them should have had their Arms and Leggs cut off, by the Advice of many Eminent Doctors, in and about <hi>London.</hi> She hath also an excellent way to discharge all windy Vapours, both in Men and Women, and watry poysonous Humours, that do so often corrupt the Blood, and hinder it from having its due course in the Body, which causes great weakness in the Limbs. She ne<g ref="char:EOLhyphen"/>ver undertook any, but whom she hath perfectly Cured; even those, who have been given over by their Doctors and Chirurgeons,</p>
+               <pb facs="tcp:195839:2"/>
+               <p>She hath also an excellent method in curing Soreness in the Eyes, Catharacts, Pins, Webs, and Pearls; she likewise cureth the Gout, when it hath been left in the Sto<g ref="char:EOLhyphen"/>mach, applying something to the sole of the Feet, and all brackish, scorbutick, salt Humours, that run oftentimes into Tetters and Leprosies: she useth very little Phy<g ref="char:EOLhyphen"/>sick to remove any of the afore-mention'd Distempers.</p>
+               <p>You may enquire of the Persons undernamed, (whom she through the Blessing of God) hath perfectly cured, <hi>viz.</hi> Mr. <hi>Robert Smith,</hi> at his Chambers in the <hi>Temple,</hi> who was very much troubled with the Gout or Rheumatism in his Right-shoulder, and had the Advice of many Eminent Doctors, and Chirurgeons, and was under the Hands of some of them along time, but found no Relief; and afterwards applying himself to the said Mrs. <hi>Green,</hi> was in a short time cured by her: The said Mr. <hi>Smith,</hi> about two Years ago, was struck with a <hi>Planet</hi> on his Left Arm, and did then also apply himself to the ablest Physicians and Chirurgeons in <hi>London,</hi> and found no Relief, but applying himself again to the said Mrs. <hi>Green</hi> was in a short time perfect<g ref="char:EOLhyphen"/>ly cured by her, and is now as well as any Man can be. And one <hi>Mrs. Cookeson</hi> at the <hi>Roe-Deer</hi> in <hi>Woods-Close,</hi> who had been Eight Years and upwards Lame all of one side, and use all the means she could hear of, and found no Relief; but applying her self to the said <hi>Mrs. Green,</hi> was in a short time perfectly cured by her. Also one <hi>Mrs. Atkins</hi> a <hi>Midwife</hi> in <hi>Scroops-Court</hi> against St. <hi>Andrew</hi>'s Church in <hi>Holbourn,</hi> was lame in all her Limbs, so that she could not stir her self, without Help, did for five Years consult the ablest Doctors she could hear of, and likewise the whole Colledge of Phy<g ref="char:EOLhyphen"/>sicians, and found no Relief, but applying her self to the said <hi>Mrs. Green,</hi> was in a short time perfectly cured by her. As also one <hi>Mrs. Butler</hi> against the <hi>Pewter-Plat<g ref="char:EOLhyphen"/>ter</hi> in St. <hi>John</hi>'s-<hi>Street,</hi> who was two Years troubled with a white Swelling in her Right-arm, and could not lift it up to her Head, did apply her self to the said Mrs. <hi>Green,</hi> and was in a short time perfectly cured by her. And one <hi>Luke Plot</hi> a Porter in <hi>Old Fish Street</hi> was suddenly struck with the Dead-Palsie, and was in a short time per<g ref="char:EOLhyphen"/>fectly cured by her. And also one Mrs. <hi>Thompson</hi> at the <hi>Sun</hi> in <hi>Bedfordbury</hi> near <hi>Co<g ref="char:EOLhyphen"/>vent-Garden</hi> was bit with a Dog and was under a Chirurgeons Hand 31 Years, was cured by her in a short time. The gr<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Pain of the Stomach, shortness of Breath, stoppage of the Stomach, and Yellow-Jaundice, are cured in three or four Days time without Physick, after they have been give<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> over as Incurable by others, during that time, they may go Abroad, and Eat and Drink what they please, <hi>viz. Mr. Floyd</hi> of <hi>Lincolns-Inn,</hi> one Mrs. <hi>Pawlet,</hi> and <hi>Mrs▪ Dixter</hi> in <hi>Hanging-Sword-Ally</hi> in <hi>Fleet-Street, Mr. Vaughan</hi> Clark to the <hi>White Lon-Wharf,</hi> near <hi>Barnards-Castle</hi> in <hi>Thames-Street,</hi> who was troubled with the Ptis<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k sixteen Years, and <hi>George Bee</hi> living in <hi>Brown</hi>'s-<hi>Garden.</hi> As also one Mrs. <hi>Frances Gillot,</hi> who lives at the <hi>Kings-Head-Inn</hi> in <hi>Southwark,</hi> of a great Stoppage in the Stomack and Dropsie and of Convulsion Fits which she was Born with, altho' left off by others as Incurable, the Truth whereof the said <hi>Mrs▪ Gillot</hi> will attest.</p>
+               <p>These Persons above named (and many other too tedious here to relate) have all of them been along time under the Hands of many Eminent Doctors and Chirurgeons, and found no Relief, were in a short time perfectly cured by her.</p>
+               <p>She likewise cureth the Stone and Gravel, the Ague, and Wind Cholick.</p>
+               <closer>Vivant Rex &amp; Regina▪</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
